@@ -1,0 +1,13 @@
+#+TITLE: About This Site
+
+This site is written and published using [[https://www.orgroam.com/][Org-roam]].
+
+This site is JavaScript-free, contains minimal CSS, and is requires zero external dependencies or build tools. It looks clean in a desktop browser and is mobile-friendly straight out-of-the-box.
+
+I have been developing websites since the dawn of src_html[:exports code]{<CENTER>} and the rise of src_html[:exports code]{<FRAME>}. After spending the last few years neck-deep in build pipelines and development tools, I thought it might be a nice change-of-pace to condense my own personal site and go back to making things simple again.
+
+Here is to a new era of not writing needless JavaScript and embracing the ways things were, because sometimes we can learn from the past and recognize that not all new technology is good.
+
+Call me a curmudgeon, but I will sleep better knowing that I can come back to this site in a month or two and not a single NPM package will be broken nor a single security issue will be raised.
+
+Simplier is often better.

@@ -5,5 +5,6 @@
 Customer-obsessed entrepreneur near NYC. Solving problems with data-driven software. Hobbyist Game Designer. Amateur Music Producer. Homebrewer. Trailblazer. +Traveler.+
 
 * Entries
-** [[file:20211212213002-keep_a_founder_s_log.org][Keep a Founder's Log]]
-** [[file:20211212194150-cleaning_up.org][Cleaning Up]]
+1. [[file:20211212213002-keep_a_founder_s_log.org][Keep a Founder's Log]] (Draft)
+2. [[file:20211213080357-about_this_site.org][About This Site]]
+3. [[file:20211212194150-cleaning_up.org][Cleaning Up]]

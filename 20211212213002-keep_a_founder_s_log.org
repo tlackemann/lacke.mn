@@ -1,3 +1,11 @@
 #+title: Keep a Founder's Log
 
-Keep a founder's log
+/This article is a work in progress and is not yet finished./
+
+I have been recently researching what it takes to run a small farm or homesteam lately. This has involved not only looking at properties but reading a lot of blogs and, more often than not, talking to real generational farmers who have spent their entire life out in the field.
+
+Have you ever thought about what happens to a farm if the family decides to move on? Who takes it over and *how* do they take it over? What grows in the fields? When does it grow? How often does it grow? How many people does it take to harvest a field? What maintenance is required during the off-seasons? What work is involved pre-season? What tools or special equipment are required?
+
+Farmers are incredibly smart and detailed people. Knowing one's land is crucial to surviving.
+
+@TODO Relate to startups, software engineering
