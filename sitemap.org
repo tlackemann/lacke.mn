@@ -1,0 +1,8 @@
+#+OPTIONS: ^:nil author:nil html-postamble:nil
+#+SETUPFILE: ./simple_inline.theme
+#+TITLE: lacke.mn
+
+- [[file:20211212194150-cleaning_up.org][Cleaning Up]]
+- [[file:keep-a-founders-log.org][Keep A Founders Log]]
+- [[file:index.org][lacke.mn]]
+file:sitemap.svg

@@ -1,0 +1,9 @@
+#+TITLE: Thomas Lackemann
+#+DESCRIPTION: Customer-obsessed entrepreneur near NYC. Solving problems with data-driven software. Hobbyist Game Designer. Amateur Music Producer. Homebrewer. Trailblazer. Traveler.
+#+KEYWORDS: thomas lackemann, tom lackemann, entrepreneur, software engineer
+
+Customer-obsessed entrepreneur near NYC. Solving problems with data-driven software. Hobbyist Game Designer. Amateur Music Producer. Homebrewer. Trailblazer. +Traveler.+
+
+* Entries
+** [[file:keep-a-founders-log.org][Keep A Founders Log]] (Draft)
+** [[file:20211212194150-cleaning_up.org][Cleaning Up]]
