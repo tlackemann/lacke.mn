@@ -3,6 +3,6 @@
 #+TITLE: lacke.mn
 
 - [[file:20211212194150-cleaning_up.org][Cleaning Up]]
-- [[file:keep-a-founders-log.org][Keep A Founders Log]]
+- [[file:20211212213002-keep_a_founder_s_log.org][Keep a Founder's Log]]
 - [[file:index.org][lacke.mn]]
 file:sitemap.svg
